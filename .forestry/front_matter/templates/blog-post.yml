@@ -1,15 +1,16 @@
 ---
 label: Blog post
-hide_body: true
+hide_body: false
 fields:
-- name: header
-  type: textarea
-  default: ''
+- name: title
+  type: text
   config:
     required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: header
+  label: title
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
 pages:
 - content/post/Testing.md
