@@ -13,4 +13,5 @@ fields:
     required: false
   label: description
 pages:
+- content/post/editor-post.md
 - content/post/my-first-post.md
