@@ -1,5 +1,15 @@
----
-title: "My First Post"
-date: 2020-05-08T18:32:43+02:00
----
-Hello World
++++
+description = "hello world, this is my first post!"
+draft = true
+title = "My First Post"
+
++++
+# Testing
+
+How are you today?
+
+Let's see:
+
+* one
+* two
+* three
