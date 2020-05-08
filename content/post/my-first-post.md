@@ -1,6 +1,5 @@
 +++
 description = "hello world, this is my first post!"
-draft = true
 title = "My First Post"
 
 +++
